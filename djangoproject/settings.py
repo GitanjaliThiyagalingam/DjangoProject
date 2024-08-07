@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'djangoproject',
     'core', 
     'posts',
+    'users',
 ]
 
 MIDDLEWARE = [
